@@ -1,0 +1,10 @@
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\bin\Debug\LED-AND-MAGNET.exe.config
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\bin\Debug\LED-AND-MAGNET.exe
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\bin\Debug\LED-AND-MAGNET.pdb
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\obj\Debug\LED-AND-MAGNET.csprojResolveAssemblyReference.cache
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\obj\Debug\LED-AND-MAGNET.csproj.CoreCompileInputs.cache
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\obj\Debug\LED-AND-MAGNET.csproj.CopyComplete
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\obj\Debug\LED-AND-MAGNET.exe
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\obj\Debug\LED-AND-MAGNET.pdb
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\bin\Debug\Phidget21.NET.dll
+C:\Users\2kXswitX\Documents\PhidgetsTest\LED-AND-MAGNET\LED-AND-MAGNET\bin\Debug\Phidget21.NET.xml
